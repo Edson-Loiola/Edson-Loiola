@@ -3,15 +3,15 @@
 
 <br/>
 
-🏣 Desenvolvedor Junior na Essence Mediacom.
+- 🏣 Desenvolvedor Junior na Essence Mediacom.
 
-💻 BackEnd C# e .NEt
+- 💻 BackEnd C# e .NEt
 
-🐍 Estudando Python.
+- 🐍 Estudando Python.
 
-🌱 Gosto de aprender coisas novas.
+- 🌱 Gosto de aprender coisas novas.
 
-👶🏻 Pai do Calebe.
+- 👶🏻 Pai do Calebe.
 
 
 <br/>
@@ -25,7 +25,7 @@
 
 
 #
-
+<br/>
 💡 "As grandes ideias surgem da observação dos pequenos detalhes" - Augusto Cury.
 
 
