@@ -1,7 +1,7 @@
 ## Oi, Edson aqui 👋
 
 
-
+<br/>
 
 🏣 Desenvolvedor Junior na Essence Mediacom.
 
@@ -14,7 +14,7 @@
 👶🏻 Pai do Calebe.
 
 
-
+<br/>
 
 ## Redes
  <div display="inline">    
