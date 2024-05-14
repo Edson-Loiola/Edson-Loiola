@@ -19,7 +19,7 @@
 ## Redes
  <div display="inline">    
    <a href="https://www.linkedin.com/in/edson-monteiro-loiola-41b692149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="https://www.linkedin.com/in/edson-monteiro-loiola-41b692149/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+   <a href="https://edson-loiola.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
  </div>
 
 
