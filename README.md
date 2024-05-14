@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🏣 Desenvolvedor Junior na Essence Mediacom.
+- 🏣 Desenvolvedor Junior na Essence Mediacom Brasil.
 
 - 💻 BackEnd C# e .NEt
 
