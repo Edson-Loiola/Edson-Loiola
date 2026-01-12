@@ -3,11 +3,9 @@
 
 <br/>
 
-- 🏣 Desenvolvedor Junior na Essence Mediacom Brasil.
+- 🏣 Desenvolvedor Pleno na Essence Mediacom Brasil.
 
-- 💻 BackEnd C# e .NEt
-
-- 🐍 Estudando Python.
+- 💻 Python | IA | BackEnd | C# e .NEt
 
 - 🌱 Gosto de aprender coisas novas.
 
