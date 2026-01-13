@@ -5,7 +5,7 @@
 
 - 🏣 Desenvolvedor Pleno na Essence Mediacom Brasil.
 
-- 💻 Python | IA | BackEnd | C# e .NEt
+- 💻 Python | IA | APIs | BackEnd | C# e .NEt
 
 - 🌱 Gosto de aprender coisas novas.
 
